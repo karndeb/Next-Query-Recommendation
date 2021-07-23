@@ -10,8 +10,10 @@ Refer the following scripts to understand the different components
 
 - aws-kube-cd/get-image-tag.sh -> The bash sript to generate the image tag dynamically
 
-- Dockerfile -> Docker file defiing the entry point
+- Dockerfile -> Docker file defining the entry point
 
-- nqr-deployment.yaml -> The EKS Fargate defining all the required manifests like Deployment, service and ingress for load balancing
+- nqr-deployment.yaml -> The EKS Fargate yaml file defining all the required manifests like Deployment, service and ingress for load balancing
 
 - start.sh ->  Bash script to build the image and run the docker container. 
+
+### Note:- Please refer to amazon docs to set up the EKS Fargate
