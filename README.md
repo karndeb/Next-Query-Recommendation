@@ -1,6 +1,6 @@
 # Next Query Recommendation
 
-This is a sample application called Next Query Recommendation based on sentence similarity to predict the top next similar queries to users. The application is used to test out AWS MLOP pipeline which includes CI/CD using CodeCommit, CodeDeploy, CodePipeline. The application is dockerized and pushed into ECR which is used as the image repository. The application is finally deployed on AWS EKS Fargate.
+This is a sample application called Next Query Recommendation based on sentence similarity to predict the top next similar queries to users. The application is used to test out AWS MLOPs pipeline which includes CI/CD using CodeCommit, CodeDeploy, CodePipeline. The application is dockerized and pushed into ECR which is used as the image repository. The application is finally deployed on AWS EKS Fargate.
 
 Refer the following scripts to understand the different components
 
