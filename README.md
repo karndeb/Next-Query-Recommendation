@@ -16,4 +16,4 @@ Refer the following scripts to understand the different components
 
 - start.sh ->  Bash script to build the image and run the docker container. 
 
-### Note:- Please refer to amazon docs to set up the EKS Fargate
+### Note:- Please refer to amazon docs to set up EKS Fargate
